@@ -3,7 +3,7 @@
 <h1>Maria Clara</h1>
 
 ```css
-Desenvolvedora Full Stack Jr
+Desenvolvedora Full Stack Jr.
 ```
 
 <p>Sou uma estudante entusiasmada pelo universo da programação. Curso Analise e Desenvolvimento de Sistemas na NASSAU e Engenharia da Computação na União das Américas Descomplica. Sou uma desenvolvedora em formação, mas com habilidades em HTML5, CSS3, JavaScript, Java, Python e versionamento por Git e GitHub. Acredito que o aprendizado contínuo é fundamental em um campo dinâmico como a tecnologia. Estou registrando aqui uma parte do meu processo de aprendizagem no dia a dia. </p><br/>
@@ -43,8 +43,8 @@ class Programmer
   <a href="https://github.com/claramariamr">
     <a href="https://platane.github.io/snk">
 </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonB-DEVLP&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonB-DEVLP&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claramariamr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramariamr&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 
