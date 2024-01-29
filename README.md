@@ -21,7 +21,7 @@ class Programmer
 </div>
 <br>
  <div align="center"> 
-  <img src= "https://preview.redd.it/some-space-related-arts-ive-done-v0-rlv9177xr3ab1.png?width=1080&crop=smart&auto=webp&s=425449af26f9d5dcfde8257b199745881172371d" width="50%">
+  <img src= "https://i.redd.it/4w6jlp7qlkb91.gif" width="50%">
   </div>
 <hr>
 
