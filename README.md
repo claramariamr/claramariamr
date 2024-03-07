@@ -6,7 +6,7 @@
 Desenvolvedora Full Stack Jr.
 ```
 
-<p>Sou uma estudante entusiasmada pelo universo da programação. Curso Analise e Desenvolvimento de Sistemas na NASSAU e Engenharia da Computação na União das Américas Descomplica. Sou uma desenvolvedora em formação, mas com habilidades em HTML5, CSS3, JavaScript, Java, Python e versionamento por Git e GitHub. Acredito que o aprendizado contínuo é fundamental em um campo dinâmico como a tecnologia. Estou registrando aqui uma parte do meu processo de aprendizagem no dia a dia. </p><br/>
+<p> Sou uma estudante entusiasmada pelo universo da programação. Curso Analise e Desenvolvimento de Sistemas na UNINASSAU e Engenharia da Computação na União das Américas Descomplica. Sou uma desenvolvedora em formação, mas com habilidades em HTML5, CSS3, JavaScript, Java, Python, C#, .NET e versionamento por Git e GitHub. Acredito que o aprendizado contínuo é fundamental em um campo dinâmico como a tecnologia. Estou registrando aqui uma parte do meu processo de aprendizagem no dia a dia. </p><br/>
 
 ```ruby
 class Programmer
