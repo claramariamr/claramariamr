@@ -9,18 +9,27 @@ Desenvolvedora Full Stack Jr.
 ```
 
 <p> Sou uma estudante entusiasmada pelo universo da programação. Curso Analise e Desenvolvimento de Sistemas na UNINASSAU e Engenharia da Computação na União das Américas Descomplica. Sou uma desenvolvedora em formação, mas com habilidades em HTML5, CSS3, JavaScript, Java, Python, C#, .NET e versionamento por Git e GitHub. Acredito que o aprendizado contínuo é fundamental em um campo dinâmico como a tecnologia. Estou registrando aqui uma parte do meu processo de aprendizagem no dia a dia. </p><br/>
+<div>
+  <img align="center" alt="JhonB-DEVLP-JAVA" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="JhonB-DEVLP-PYTHON" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
+  <img align="center" alt="JhonB-DEVLP-HTML" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JhonB-DEVLP-CSS" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JhonB-DEVLP-FIGMA" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="JhonB-DEVLP-GIT" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="JhonB-DEVLP-NODEJS" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="JhonB-DEVLP-MYSQL" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+   </div>
 
 <div align="center"> 
   <img src= "https://i.redd.it/4w6jlp7qlkb91.gif" width="50%">
   </div>
-
+<br>
 ```ruby
 class Programmer
   def initialize()
 ```
 <hr>
   <p></p>
-<h3 align="left">Languages and Tools:</h3>
   <div>
   <img align="center" alt="JhonB-DEVLP-JAVA" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="JhonB-DEVLP-PYTHON" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
