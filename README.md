@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B231&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+amigo%2C+Bem-vindo+ao+meu+perfil!;Hello+friend%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h1>Maria Clara Mendonça</h1>
+  <a href = "mailto:mclaraluna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maria-clara-mendon%C3%A7a-460a5b22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ```css
 Desenvolvedora Full Stack Jr.
