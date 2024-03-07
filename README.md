@@ -21,6 +21,7 @@ class Programmer
 <br>
  <div align="center"> 
   <img src= "https://i.redd.it/4w6jlp7qlkb91.gif" width="50%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramariamr&layout=compact&langs_count=7&theme=radical"/>
   </div>
 <hr>
 
@@ -43,6 +44,5 @@ class Programmer
   <a href="https://github.com/claramariamr">
     <a href="https://platane.github.io/snk">
 </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramariamr&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
