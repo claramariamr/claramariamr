@@ -18,12 +18,6 @@ Desenvolvedora Full Stack Jr.
 class Programmer
   def initialize()
 ```
-<h3 align="left">Social:</h3>
-  <div>
-  <a href = "mailto:mclaraluna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-clara-mendon%C3%A7a-460a5b22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
-</div>
 <br>
  <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramariamr&layout=compact&langs_count=7&theme=radical"/>
@@ -40,7 +34,8 @@ class Programmer
   <img align="center" alt="JhonB-DEVLP-FIGMA" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="JhonB-DEVLP-GIT" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="JhonB-DEVLP-NODEJS" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="JhonB-DEVLP-MYSQL" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
+  <img align="center" alt="JhonB-DEVLP-MYSQL" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramariamr&layout=compact&langs_count=7&theme=radical"/>
    </div>
   <p></p>
 <div> 
