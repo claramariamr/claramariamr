@@ -4,7 +4,7 @@
 <br>
   <a href = "mailto:mclaraluna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-clara-mendon%C3%A7a-460a5b22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <br>
+  <br><br>
 
 ```css
 Desenvolvedora Full Stack Jr.
