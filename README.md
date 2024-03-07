@@ -18,9 +18,7 @@ Desenvolvedora Full Stack Jr.
 class Programmer
   def initialize()
 ```
-<br>
 <hr>
-
   <p></p>
 <h3 align="left">Languages and Tools:</h3>
   <div>
@@ -33,8 +31,8 @@ class Programmer
   <img align="center" alt="JhonB-DEVLP-NODEJS" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="JhonB-DEVLP-MYSQL" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
    </div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramariamr&layout=compact&langs_count=7&theme=radical"/>
   <p></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramariamr&layout=compact&langs_count=7&theme=radical"/>
 <div> 
 <br>
 <div align="center">
