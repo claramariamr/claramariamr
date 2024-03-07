@@ -8,6 +8,10 @@ Desenvolvedora Full Stack Jr.
 
 <p> Sou uma estudante entusiasmada pelo universo da programação. Curso Analise e Desenvolvimento de Sistemas na UNINASSAU e Engenharia da Computação na União das Américas Descomplica. Sou uma desenvolvedora em formação, mas com habilidades em HTML5, CSS3, JavaScript, Java, Python, C#, .NET e versionamento por Git e GitHub. Acredito que o aprendizado contínuo é fundamental em um campo dinâmico como a tecnologia. Estou registrando aqui uma parte do meu processo de aprendizagem no dia a dia. </p><br/>
 
+<div align="center"> 
+  <img src= "https://i.redd.it/4w6jlp7qlkb91.gif" width="50%">
+  </div>
+
 ```ruby
 class Programmer
   def initialize()
@@ -20,7 +24,6 @@ class Programmer
 </div>
 <br>
  <div align="center"> 
-  <img src= "https://i.redd.it/4w6jlp7qlkb91.gif" width="50%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramariamr&layout=compact&langs_count=7&theme=radical"/>
   </div>
 <hr>
