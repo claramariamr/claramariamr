@@ -19,27 +19,19 @@ Desenvolvedora Full Stack Jr.
   <img align="center" alt="JhonB-DEVLP-NODEJS" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="JhonB-DEVLP-MYSQL" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
    </div>
+   <br>
 
 <div align="center"> 
   <img src= "https://i.redd.it/4w6jlp7qlkb91.gif" width="50%">
   </div>
 <br>
+
 ```ruby
 class Programmer
   def initialize()
 ```
 <hr>
-  <p></p>
-  <div>
-  <img align="center" alt="JhonB-DEVLP-JAVA" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="JhonB-DEVLP-PYTHON" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
-  <img align="center" alt="JhonB-DEVLP-HTML" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JhonB-DEVLP-CSS" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JhonB-DEVLP-FIGMA" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="JhonB-DEVLP-GIT" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="JhonB-DEVLP-NODEJS" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="JhonB-DEVLP-MYSQL" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-   </div>
+  
   <p></p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claramariamr&layout=compact&langs_count=7&theme=radical"/>
 <div> 
